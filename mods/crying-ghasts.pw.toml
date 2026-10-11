@@ -1,0 +1,13 @@
+name = "Crying Ghasts"
+filename = "cryingghasts-1.21.1-3.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SFBuyD9e/versions/ePU2wKLp/cryingghasts-1.21.1-3.7.jar"
+hash-format = "sha512"
+hash = "db2ffa1166a6a08d8a25e3ab13fe06ba79e91dd081df9f1711cbb45f88aaafc47b7ac85e2a60cbb4fdd34fccdd69ea514449dde314be21960f1a158dc08326b5"
+
+[update]
+[update.modrinth]
+mod-id = "SFBuyD9e"
+version = "ePU2wKLp"

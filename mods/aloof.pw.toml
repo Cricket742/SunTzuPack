@@ -1,0 +1,13 @@
+name = "Aloof!"
+filename = "aloof-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1fjX4dUW/versions/QOrUtkwa/aloof-0.2.0.jar"
+hash-format = "sha512"
+hash = "49f94e895c466acee69ebf55df132134d9cd0f6521bf441735739b0b9ecaf109df83d60439586b33b15ef5884efba9506d5e94b6748afb914eaf382c1e2019de"
+
+[update]
+[update.modrinth]
+mod-id = "1fjX4dUW"
+version = "QOrUtkwa"

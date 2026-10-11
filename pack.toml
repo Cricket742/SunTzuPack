@@ -1,0 +1,13 @@
+name = "Sun Tzu Pack"
+author = "PW-GUI"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "54345cd705234398e265a953dabe221a1b7dbf4d952576e13bae919087c2cd03"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.252"
